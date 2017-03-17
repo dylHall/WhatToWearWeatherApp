@@ -3,6 +3,8 @@ package main;
 /**
  * Using this class as a basic form for having weather information - 
  * can potentially have a list of these or practice with them.
+ * 
+ * This class will store the state of the weather, and probably calculate
  * @author dylanhall
  *
  */

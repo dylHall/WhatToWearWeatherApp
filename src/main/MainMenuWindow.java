@@ -34,6 +34,11 @@ public class MainMenuWindow {
 			e.printStackTrace();
 		}
 		
+		//need some kind of class/delegation to be able to suggest what to wear,
+		//should probably have some kind of RNG element as well for a laugh.
+		
+		
+		
 		System.out.println("Exiting.");
 	}
 
